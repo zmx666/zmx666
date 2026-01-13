@@ -11,9 +11,7 @@
 ## 🔬 Research Interests
 
 - 🔐 Federated Learning & Personalized Federated Learning  
-- 🧠 Membership Inference Attacks & Model Stealing  
 - 🛡 Privacy-Preserving Machine Learning  
-- 💡 Prompt Learning  
 - 📊 FGL 
 
 ---
