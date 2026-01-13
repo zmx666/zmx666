@@ -7,14 +7,6 @@
 
 ---
 
-## 🧭 About Me
-
-I am currently a **PhD student in Software Engineering at Hainan University**, with a strong research focus on **federated learning and privacy attacks/defenses**.  
-My work mainly investigates **membership inference attacks, model stealing, and privacy-preserving knowledge alignment**, aiming to improve the **security and robustness of distributed machine learning systems**.
-
-I have published papers in **CCF-A conferences and journals**, and participated in **national-level key research projects** related to data security.
-
----
 
 ## 🔬 Research Interests
 
@@ -22,7 +14,7 @@ I have published papers in **CCF-A conferences and journals**, and participated 
 - 🧠 Membership Inference Attacks & Model Stealing  
 - 🛡 Privacy-Preserving Machine Learning  
 - 💡 Prompt Learning  
-- 📊 Security Evaluation Benchmarks for ML Systems  
+- 📊 FGL 
 
 ---
 
@@ -58,13 +50,6 @@ I have published papers in **CCF-A conferences and journals**, and participated 
 
 ---
 
-### 🔹 Data Security Evaluation under Autonomous Computing Systems
-**National / Provincial Key Project (2025.09 – Present)**  
-- Research on **data cross-border security risk assessment**
-- Application-oriented system development and validation
-
----
-
 ### 🔹 Mobile Electronic Signature System
 - Frontend: **Vue + ElementUI + ECharts**
 - Backend: **Django + MySQL**
@@ -84,23 +69,14 @@ I have published papers in **CCF-A conferences and journals**, and participated 
 ---
 
 ## 🏆 Awards & Patents
-
 - 🥉 **6th National Cryptography Technology Competition**, Third Prize (2021)  
 - 🥇 **AIIA Artificial Intelligence Competition (“Sophon”)**, First Prize (2019)  
-- 📜 **1 Patent (under review), 2 Software Copyrights**
-
 ---
 
 ## 🎓 Education
 
 - **PhD in Software Engineering**  
   *Hainan University* (2024.09 – 2028.06)
-
-- **MSc in Software Engineering**  
-  *Hainan University* (2021.09 – 2024.06)
-
-- **BEng in Internet of Things Engineering**  
-  *Henan University of Technology* (2017.09 – 2021.06)
 
 ---
 
