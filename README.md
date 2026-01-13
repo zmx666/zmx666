@@ -3,7 +3,7 @@
 🎓 **PhD Student in Software Engineering**  
 🏫 **Hainan University**
 
-🔐 Federated Learning · Privacy-Preserving ML · Membership Inference Attacks · Prompt Learning
+🔐 Federated Learning 
 
 ---
 
