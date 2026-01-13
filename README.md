@@ -1,4 +1,4 @@
-# 👋 Hi, I'm 墨轩 | Moxuan Zeng
+# 👋  Moxuan Zeng
 
 🎓 **PhD Student in Software Engineering**  
 🏫 **Hainan University**
