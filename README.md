@@ -1,50 +1,115 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm 墨轩 | Moxuan Zeng
 
-🎓 **PhD Student | Hainan University**  
-🌱 Researcher in **[Your Field, e.g., Plant Science / Federated Learning / Graph Learning]**
+🎓 **PhD Student in Software Engineering**  
+🏫 **Hainan University**
+
+🔐 Federated Learning · Privacy-Preserving ML · Membership Inference Attacks · Prompt Learning
 
 ---
 
 ## 🧭 About Me
 
-I am a PhD student at **Hainan University**, focusing on interdisciplinary research at the intersection of **[Field A]**, **[Field B]**, and **[Field C]**.  
-My research aims to address **[one-line core problem you study]**, with an emphasis on **theoretical modeling, algorithm design, and real-world applications**.
+I am currently a **PhD student in Software Engineering at Hainan University**, with a strong research focus on **federated learning and privacy attacks/defenses**.  
+My work mainly investigates **membership inference attacks, model stealing, and privacy-preserving knowledge alignment**, aiming to improve the **security and robustness of distributed machine learning systems**.
+
+I have published papers in **CCF-A conferences and journals**, and participated in **national-level key research projects** related to data security.
 
 ---
 
 ## 🔬 Research Interests
 
-- 🌊 Waterlogging stress & plant adaptive mechanisms  
-- 🌿 Multi-omics integration (Transcriptomics, Proteomics, Metabolomics)  
-- 🧠 Graph Neural Networks (GNNs) & Federated Learning  
-- 🔐 Privacy-preserving machine learning  
-- 📊 Multimodal learning under distribution shifts  
+- 🔐 Federated Learning & Personalized Federated Learning  
+- 🧠 Membership Inference Attacks & Model Stealing  
+- 🛡 Privacy-Preserving Machine Learning  
+- 💡 Prompt Learning  
+- 📊 Security Evaluation Benchmarks for ML Systems  
 
 ---
 
-## 📄 Publications & Preprints
+## 📄 Publications
 
-### 🧠 Machine Learning / Graph Learning
-- **FedPDKA: Personalized Federated Learning with Privacy-Preserving Dynamic Knowledge Alignment**  
-  *ACM Multimedia 2025 (under review)*  
-  📄 Paper | 💻 Code
+### 🧠 Federated Learning & Privacy
 
-- **Virtual Nodes Can Help: Tackling Distribution Shifts in Federated Graph Learning**  
-  *Reproduction & Extension*  
-  📄 Paper | 💻 Code
+- **FedPKDA: Personalized Federated Learning with Privacy-Preserving Knowledge Dynamic Alignment**  
+  *AAAI 2026, CCF-A Conference*  
+  **First Author**
+
+- **Comparing Different Membership Inference Attacks with a Comprehensive Benchmark**  
+  *IEEE Transactions on Information Forensics and Security (TIFS 2025), CCF-A Journal*
+
+- **Dual Defense: Combining Preemptive Exclusion of Members and Knowledge Distillation to Mitigate Membership Inference Attacks**  
+  *Journal of Information and Intelligence, SCI Journal*
+
+- **GNMS: A Novel Method for Model Stealing Based on GAN**  
+  *CBD 2023*  
+  **First Author**
+
+> 📌 *Full list will be updated continuously.*
 
 ---
 
-### 🌱 Plant Science / Stress Physiology
-- **Regulatory Mechanisms of Waterlogging Tolerance and Secondary Metabolism in *Barringtonia racemosa* and *Syzygium buxifolium***  
-  *In preparation*
+## 💻 Projects
 
-> 📌 *Full publication list will be continuously updated.*
+### 🔹 Membership Inference Attack Benchmark (MIBench)
+- Built a **systematic evaluation benchmark** for membership inference attacks
+- Evaluated **13 different attack methods** under **multi-distribution settings**
+- Focused on **low-FPR conditions and TP rate analysis**
+- Integrated **differential privacy, MixUp + MMD defense methods**
 
 ---
 
-## 💻 Selected Projects
+### 🔹 Data Security Evaluation under Autonomous Computing Systems
+**National / Provincial Key Project (2025.09 – Present)**  
+- Research on **data cross-border security risk assessment**
+- Application-oriented system development and validation
 
-### 🔹 Federated Graph Learning Framework
-```text
-FedVN / FedPDKA / FedFeatureCompletion
+---
+
+### 🔹 Mobile Electronic Signature System
+- Frontend: **Vue + ElementUI + ECharts**
+- Backend: **Django + MySQL**
+- Integrated **SM2 / SM3 / SM4** cryptographic algorithms
+- Supported secure electronic signing during COVID-19
+
+---
+
+## 🧪 Skills
+
+- **Programming**: C / C++ / Java / Python / Shell  
+- **ML Frameworks**: PyTorch, TensorFlow, Paddle, JAX  
+- **Backend**: Django, RESTful API, SQL  
+- **Frontend**: Vue, HTML, JavaScript  
+- **Security**: Cryptography, Privacy Attacks & Defenses  
+
+---
+
+## 🏆 Awards & Patents
+
+- 🥉 **6th National Cryptography Technology Competition**, Third Prize (2021)  
+- 🥇 **AIIA Artificial Intelligence Competition (“Sophon”)**, First Prize (2019)  
+- 📜 **1 Patent (under review), 2 Software Copyrights**
+
+---
+
+## 🎓 Education
+
+- **PhD in Software Engineering**  
+  *Hainan University* (2024.09 – 2028.06)
+
+- **MSc in Software Engineering**  
+  *Hainan University* (2021.09 – 2024.06)
+
+- **BEng in Internet of Things Engineering**  
+  *Henan University of Technology* (2017.09 – 2021.06)
+
+---
+
+## 📫 Contact
+
+- 📧 Email: zengmx@hainanu.edu.cn  
+- 🧑‍🔬 DBLP: https://dblp.org/pid/35/2736.html  
+- 💻 GitHub: https://github.com/zmx666
+
+---
+
+⭐️ *Feel free to explore my repositories or contact me for research collaboration.*
