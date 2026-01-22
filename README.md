@@ -22,7 +22,6 @@
 
 - **FedPKDA: Personalized Federated Learning with Privacy-Preserving Knowledge Dynamic Alignment**  
   *AAAI 2026, CCF-A Conference*  
-  **First Author**
 
 - **Comparing Different Membership Inference Attacks with a Comprehensive Benchmark**  
   *IEEE Transactions on Information Forensics and Security (TIFS 2025), CCF-A Journal*
@@ -32,7 +31,6 @@
 
 - **GNMS: A Novel Method for Model Stealing Based on GAN**  
   *CBD 2023*  
-  **First Author**
 
 > 📌 *Full list will be updated continuously.*
 
@@ -71,13 +69,6 @@
 - 🥇 **AIIA Artificial Intelligence Competition (“Sophon”)**, First Prize (2019)  
 ---
 
-## 🎓 Education
-
-- **PhD in Software Engineering**  
-  *Hainan University* (2024.09 – 2028.06)
-
----
-
 ## 📫 Contact
 
 - 📧 Email: zengmx@hainanu.edu.cn  
@@ -85,5 +76,3 @@
 - 💻 GitHub: https://github.com/zmx666
 
 ---
-
-⭐️ *Feel free to explore my repositories or contact me for research collaboration.*
